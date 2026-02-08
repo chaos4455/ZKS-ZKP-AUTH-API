@@ -1,0 +1,17 @@
+{
+    "a5a1c4b0-2bb0-46e9-a1fe-4ea4c0795a30": {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdWTZku0k69GMyMMm/ElpFvgM0Eys\nAOcXj/yoyTmnwb3ar3pLksTlFXy3ds8plg/k+VwjevFxmba4jNy/cXPNXg==\n-----END PUBLIC KEY-----\n",
+        "salt": "c5c97ef9133cb3a681db5e056bff9aed",
+        "zkp_verifier": "00224fcfe64cf0f54187a1cfc5d18585777b4c661de62b8e7db51eb8c5d5b2a0"
+    },
+    "71d5e34d-9a46-4313-be04-a8327872d86a": {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYtpX7qGYdsDFAr3PVANLAKw//2dS\nGxfx/5ngUHFQ0FCjEZdyAgHRn9g5zktSZXNb0cVQO/fj3wC5FR8VZcQG8w==\n-----END PUBLIC KEY-----\n",
+        "salt": "28b67a3e7b41f4448fd8ec03e6259e42",
+        "zkp_verifier": "8ac31a7ad77571634e2f6cbda924af95f7c716d4f751e0e1e2b712a144ad1f24"
+    },
+    "ab9acf52-c40b-4308-acd5-9d4132ff3d36": {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJg8PSVrIGAeTEgjrlXhWzzdniBL1\nD3NV0gXKsx0yEwjiu4TRSA+IQ0HJoJ602lu+HL8aKkMSjyQOKS+ex4cSiQ==\n-----END PUBLIC KEY-----\n",
+        "salt": "49432e1b22ab01a96959cf372a2a8c00",
+        "zkp_verifier": "08651a275bac9a31f75849c5b782ec528be9100a4c5b2b006caaedfccada23e7"
+    }
+}

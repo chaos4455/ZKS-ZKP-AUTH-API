@@ -1,0 +1,6 @@
+--- Dados Essenciais de Login ---
+User ID: ab9acf52-c40b-4308-acd5-9d4132ff3d36
+Salt: 49432e1b22ab01a96959cf372a2a8c00
+ZKP Verifier: 08651a275bac9a31f75849c5b782ec528be9100a4c5b2b006caaedfccada23e7
+
+ATENÇÃO: A private_key.key é sua senha mestra. Não a compartilhe.
