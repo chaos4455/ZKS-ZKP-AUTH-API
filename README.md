@@ -2,6 +2,9 @@
 
 # 🔐 Simple Message Xchanger (SMX) — ZKP Blind Auth PoC
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 15, 2026, 11_22_11 PM" src="https://github.com/user-attachments/assets/3fd451b4-4aa2-49c7-a16b-ba38af5b595c" />
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Release-v2.0--Stable-orange?style=for-the-badge&logo=github" alt="Release">
   <img src="https://img.shields.io/badge/Security-Zero%20Knowledge%20Proof-orange?style=for-the-badge&logo=cloudera" alt="ZKP">
